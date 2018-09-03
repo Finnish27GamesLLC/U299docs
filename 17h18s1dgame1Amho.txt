@@ -1,0 +1,241 @@
+the most favorable player responses for level   19
+total number of times bets were placed is      247828 hands
+17h18s1d/game1                                                                  
+      1      2      3      4      5      6      7      8      9     10      
+       
+AA  13/A7  Split  Split  Split  Split  Split  Split  Split  Split  Split   
+A2  12/A7  DDown  DDown  DDown  DDown  DDown  14/A6  15/A7  15/A8  15/A7   
+A3  12/A7  DDown  DDown  DDown  DDown  DDown  14/A6  15/A7  15/A8  15/A7   
+A4  13/A7  12/A7  DDown  DDown  DDown  DDown  13/A6  15/A7  15/A8  15/A7   
+A5  13/A7  DDown  DDown  DDown  DDown  DDown  13/A7  13/A7  14/A8  15/A7   
+A6  12/A7  DDown  DDown  DDown  DDown  DDown  DDown  14/A7  14/A8  14/A8   
+A7  12/A8  DDown  DDown  DDown  DDown  DDown  DDown  Stand  14/A8  14/A8   
+A8  Stand  DDown  DDown  DDown  DDown  DDown  DDown  Stand  Stand  Stand   
+A9  Stand  DDown  DDown  DDown  DDown  DDown  DDown  Stand  Stand  Stand   
+AJ  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand   
+22  12/A6  Stand  Split  Split  Split  Split  Split  15/A7  15/A7  15/A7   
+23  13/A7  12/A7  12/A7  DDown  DDown  DDown  13/A6  15/A7  15/A7  15/A7   
+24  13/A7  12/A7  DDown  DDown  DDown  DDown  13/A6  15/A7  15/A8  15/A7   
+25  13     12     DDown  DDown  DDown  DDown  13     13     14/A8  14      
+26  12     DDown  DDown  DDown  DDown  DDown  DDown  14     14     15      
+27  DDown  DDown  DDown  DDown  DDown  DDown  DDown  DDown  14     14      
+28  DDown  DDown  DDown  DDown  DDown  DDown  DDown  DDown  DDown  DDown   
+29  DDown  DDown  DDown  DDown  DDown  DDown  DDown  DDown  DDown  DDown   
+2J  13     Stand  Stand  Stand  Stand  Stand  14     15     15     15      
+33  13/A7  Split  Stand  Split  Split  Split  13/A6  15/A7  15/A8  15/A7   
+34  13     12     DDown  DDown  DDown  DDown  13     14     14/A8  15      
+35  13     DDown  DDown  DDown  DDown  DDown  DDown  14     14     15      
+36  12     DDown  DDown  DDown  DDown  DDown  DDown  DDown  14     15      
+37  DDown  DDown  DDown  DDown  DDown  DDown  DDown  DDown  DDown  DDown   
+38  DDown  DDown  DDown  DDown  DDown  DDown  DDown  DDown  DDown  DDown   
+39  Stand  Stand  Stand  Stand  Stand  Stand  14     15     15     15      
+3J  14     Stand  Stand  Stand  Stand  Stand  14     15     15     15      
+44  13     DDown  DDown  Stand  DDown  DDown  DDown  14     14     14      
+45  13     DDown  DDown  DDown  DDown  DDown  DDown  DDown  15     15      
+46  DDown  DDown  DDown  DDown  DDown  DDown  DDown  DDown  DDown  DDown   
+47  DDown  DDown  DDown  DDown  DDown  DDown  DDown  DDown  DDown  DDown   
+48  Stand  Stand  Stand  Stand  Stand  Stand  13     15     15     15      
+49  Stand  Stand  Stand  Stand  Stand  Stand  14     15     15     15      
+4J  Stand  Stand  Stand  Stand  Stand  Stand  Stand  15     15     15      
+55  DDown  DDown  DDown  DDown  Stand  DDown  DDown  DDown  DDown  DDown   
+56  DDown  DDown  DDown  DDown  DDown  DDown  DDown  DDown  DDown  DDown   
+57  Stand  Stand  Stand  Stand  Stand  Stand  14     14     14     14      
+58  Stand  Stand  Stand  Stand  Stand  Stand  Stand  15     15     15      
+59  Stand  Stand  Stand  Stand  Stand  Stand  Stand  15     15     15      
+5J  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand   
+66  Stand  Split  Split  Split  Split  Stand  14     15     14     14      
+67  Stand  Stand  Stand  Stand  Stand  Stand  14     14     14     14      
+68  Stand  Stand  Stand  Stand  Stand  Stand  Stand  15     Stand  Stand   
+69  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand   
+6J  Stand  Stand  Stand  Stand  Stand  Stand  17     17     Stand  Stand   
+77  Stand  Split  Split  Split  Split  Split  Stand  Stand  Stand  Stand   
+78  Stand  Stand  Stand  Stand  Stand  Stand  17     17     Stand  Stand   
+79  Stand  Stand  Stand  Stand  Stand  Stand  17     Stand  Stand  Stand   
+7J  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand   
+88  Split  Split  Split  Split  Split  Split  Split  Stand  Stand  Stand   
+89  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand   
+8J  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand   
+99  Split  Split  Split  Split  Split  Split  Split  Split  Stand  Stand   
+9J  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand   
+JJ  Stand  Split  Split  Split  Split  Split  Split  Stand  Stand  Stand   
+ 
+win minus loss results for two card combos verses dealer up cards 
+      1      2      3      4      5      6      7      8      9     10      
+    11.47   4.12   4.11   4.08   4.07   4.05   7.69   7.66   7.64  45.11     %
+AA -58.37 107.40 113.28 124.62 144.59 141.58 110.17  92.79  75.26  48.86  0.91
+A2  -9.12  16.80  29.96  62.10  99.15  76.23 -11.62 -20.01 -17.93 -35.32  0.98
+A3 -12.28   5.89  28.15  69.04  96.19  73.00 -21.88 -21.67 -32.09 -43.58  0.98
+A4 -17.03  -1.73  27.08  52.40  92.51  66.05 -26.23 -40.53 -45.10 -55.60  0.97
+A5 -18.47   4.41  25.82  65.06  75.54  69.48 -30.95 -42.98 -48.61 -60.88  0.97
+A6 -12.13  20.65  41.16  77.35 107.19  69.56   2.83 -30.50 -38.52 -50.33  0.97
+A7  -4.76  37.16  55.99  92.38 105.50  87.75  66.20   9.80 -28.87 -40.86  1.83
+A8  16.11  60.14  79.51  87.94 120.05 104.28  87.12  72.63  18.37 -26.29  1.83
+A9  38.11  92.37  85.07 104.83 131.84 117.99  95.21  86.51  81.54  31.38  1.82
+AJ 119.96 150.00 150.00 150.00 150.00 150.00 150.00 150.00 150.00 137.06 10.76
+22 -18.98  -6.07  27.79  62.41  97.56  67.68 -19.81 -31.28 -39.70 -53.18  0.01
+23 -17.84  -4.70   6.33  54.76  98.00  56.71 -32.16 -39.89 -47.95 -62.33  0.35
+24 -20.60  -5.41  10.75  42.73 102.12  63.07 -32.83 -48.90 -53.20 -67.22  0.35
+25 -17.14   5.92  24.69  71.87  86.55  81.36  -1.40 -38.10 -45.68 -61.53  0.35
+26  -8.64  25.71  48.79  88.28 121.26  85.29  53.89  -2.19 -36.23 -51.89  0.35
+27   4.05  56.86  77.66 102.56 123.71 105.61  91.39  66.02  -1.69 -37.53  0.66
+28  34.53  95.71 107.17 110.71 141.41 128.47 110.12  95.95  74.88   7.46  0.66
+29  45.60 102.03 101.89 120.00 143.43 128.21  92.13  75.69  58.45  23.77  0.65
+2J -30.83 -13.12  -4.16  16.68  35.74  16.88 -35.90 -42.44 -49.85 -55.49  3.86
+33 -22.95   1.50   0.95  70.26  96.56  65.89 -32.04 -44.25 -51.89 -62.05  0.01
+34 -20.94  -8.14  22.84  62.09 116.51  87.59  -1.04 -42.09 -54.90 -66.33  0.35
+35 -10.69  14.08  45.63  92.00 108.28 114.76  59.72  -1.08 -39.16 -53.59  0.35
+36   4.61  48.08  72.86 108.08 145.07 111.64  97.99  66.33  -1.47 -34.61  0.35
+37  34.20  91.34 105.84 129.05 145.65 134.34 118.82 103.57  67.18   7.82  0.66
+38  45.87 105.47 114.24 125.07 146.50 133.37  94.73  76.46  57.64  27.54  0.65
+39 -21.09  -8.54  -0.70  25.49  37.60  16.65 -44.31 -50.89 -60.21 -63.47  0.65
+3J -34.65 -16.43  -1.41  23.71  36.73  18.21 -45.87 -51.62 -50.38 -60.80  3.86
+44 -12.33  13.81  37.87  29.92 115.86  96.39  52.41  -1.83 -33.21 -47.64  0.01
+45   2.83  44.82  65.48 100.21 132.26 141.69 101.88  60.12   0.15 -35.18  0.35
+46  33.16  88.90 102.17 125.93 167.31 139.03 128.52  97.74  67.49   6.71  0.34
+47  46.34 104.06 120.27 132.84 151.93 138.01  97.49  76.48  59.98  27.86  0.65
+48 -20.56  -3.95  15.05  18.94  39.58  18.25 -45.13 -53.45 -60.97 -63.15  0.65
+49 -21.26  -6.38   6.06  17.93  39.12  17.42 -48.90 -53.86 -51.17 -61.94  0.65
+4J -34.98 -14.58   4.71  16.81  38.25  19.01 -51.49 -57.70 -61.00 -69.28  3.83
+55  27.58  88.01  97.23 120.19  98.88 143.50 112.80  90.21  63.75   5.42  0.01
+56  46.70 108.09 121.24 144.31 154.56 141.57  99.59  82.08  60.40  26.16  0.34
+57 -18.91   4.16  19.15  38.75  30.34  16.66 -49.14 -54.19 -59.40 -61.33  0.65
+58 -19.75   4.32  16.55  28.97  29.29  16.47 -61.93 -65.98 -60.71 -70.52  0.65
+59 -20.42   1.63   7.04  27.92  28.84  15.64 -61.94 -60.85 -63.45 -70.21  0.65
+5J -34.21  -7.00   6.32  26.78  27.96  17.30 -55.84 -64.15 -65.34 -73.82  3.82
+66 -24.13   8.84  32.64  68.29  87.73  17.18 -45.50 -50.33 -55.94 -59.67  0.01
+67 -15.39   4.12  19.74  37.84  37.86   9.77 -63.09 -69.69 -64.11 -69.38  0.65
+68 -16.22   4.08  16.64  28.67  36.79   9.52 -62.92 -62.59 -65.29 -72.11  0.65
+69 -16.97   0.92   7.79  27.70  36.38   8.68 -62.25 -63.91 -65.79 -72.60  0.64
+6J -30.96  -7.04   7.02  26.55  35.63  10.09 -54.78 -63.55 -66.26 -73.02  3.80
+77 -14.74  33.22  58.40  88.81  81.93  50.65  -8.26 -69.30 -69.91 -66.33  0.31
+78 -15.54   3.51  15.87  25.46  27.23   5.84 -57.14 -63.24 -64.61 -66.82  1.22
+79 -16.23   0.91   6.96  24.49  26.93   5.69 -55.11 -64.12 -65.11 -67.30  1.22
+7J -25.79   2.15  13.80  32.07  35.66  22.66  -8.27 -53.68 -55.09 -61.65  7.21
+88   1.07  55.98  67.69  72.96  99.29  80.10  64.25  -5.97 -59.32 -67.32  0.30
+89 -12.59  10.33  11.84  24.62  35.17  21.57  -9.33 -57.74 -53.08 -57.37  1.22
+8J -10.76  20.43  27.55  37.08  51.48  46.26  57.21   5.14 -40.56 -42.01  7.18
+99  24.27  69.25  58.65  87.36 116.20  92.71  77.29  55.34  -5.14 -37.76  0.30
+9J  11.94  39.56  37.94  49.31  67.42  61.46  76.64  67.17  13.86 -22.69  7.17
+JJ  21.87  89.55 111.95 151.51 190.17 160.83  95.98  86.41  77.11  30.78 19.36
+ 
+total win minus loss result is 16.176%
+the most favorable player responses after split with pc1>=pc2
+ 
+      1      2      3      4      5      6      7      8      9     10      
+       
+AA  Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand*  
+2A  12/A7  Stand* 12/A6* 12/A6* 12/A7* 12/A6* 14/A6  15/A7  15/A8  15/A7   
+3A  13/A7* 12/A7* Stand* 12/A6* 12/A7* 12/A6* 14/A6  15/A7  15/A8  15/A7   
+4A  13/A7  12/A7  12/A7* Stand* 12/A7* 12/A7* 13/A6  15/A7  15/A8  15/A7   
+5A  13/A7  12/A7* 12/A7* 12/A7* Stand* 12/A7* 13/A7  13/A7  14/A8  15/A7   
+6A  12/A8* 12/A7* 12/A7* 12/A7* 12/A7* Stand* 13/A7* 13/A7* 14/A8  14/A8   
+7A  12/A8  Stand* Stand* Stand* Stand* Stand* Stand* Stand  14/A8  13/A8*  
+8A  Stand  Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand  13/A9*  
+9A  Stand  Stand* Stand* Stand* Stand* Stand* Stand* Stand  Stand* Stand   
+JA  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand   
+22  Stand* Stand  Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand*  
+32  13/A7  12/A7  Stand* 12/A6* 12/A7* 12/A6* 13/A6  15/A7  15/A7  15/A7   
+42  13/A7  12/A7  12/A7* Stand* 12/A7* 12/A6* 13/A6  15/A7  15/A8  15/A7   
+52  13     12     12   * 12   * Stand* 12   * 13     13     14/A8  14      
+62  12     12   * 12   * 12   * 12   * Stand* 13   * 14     14     15      
+72  12   * 12   * 12   * 12   * 12   * 12   * Stand* 13   * 14     13   *  
+82  12   * 12   * 12   * 12   * 12   * 12   * 15   * Stand* 12   * 13   *  
+92  12   * 12   * 12   * 12   * 12   * 12   * 15   * 15   * Stand* 15   *  
+J2  14   * Stand  Stand  Stand  Stand  Stand  14     15     15     15      
+33  Stand* Stand* Stand  Stand* Stand* Stand* Stand* Stand* Stand* Stand*  
+43  13     12     12   * Stand* 12   * 12   * 13     14     14/A8  15      
+53  13     12   * 12   * 12   * Stand* 12   * 13   * 14     14     15      
+63  12     12   * 12   * 12   * 12   * Stand* 13   * 14   * 14     15      
+73  12   * 12   * 12   * 12   * 12   * 12   * Stand* 13   * 14   * 13   *  
+83  12   * 12   * 12   * 12   * 12   * 12   * 13   * Stand* 12   * 13   *  
+93  Stand  Stand  Stand  Stand  Stand  Stand  15   * 15     Stand* 15      
+J3  14     Stand  Stand  Stand  Stand  Stand  14     15     15     15      
+44  Stand* Stand* Stand* Stand  Stand* Stand* Stand* Stand* Stand* Stand*  
+54  13     12   * 12   * 12   * Stand* 12   * 13   * 15   * 15     15      
+64  12   * 12   * 12   * 12   * 12   * Stand* 14   * 15   * 15   * 15   *  
+74  12   * 12   * 12   * 12   * 12   * 12   * Stand* 14   * 14   * 13   *  
+84  Stand  Stand  Stand  Stand  Stand  Stand  13     Stand* Stand* 13   *  
+94  Stand  Stand  Stand  Stand  Stand  Stand  15   * 15     Stand* 15      
+J4  Stand  Stand  Stand  Stand  Stand  Stand  Stand  15     15     15      
+55  Stand* Stand* Stand* Stand* Stand  Stand* Stand* Stand* Stand* Stand*  
+65  12   * 12   * 12   * 12   * 12   * Stand* 14   * 14   * 14   * 15   *  
+75  Stand  Stand  Stand  Stand  Stand  Stand  Stand* 13   * 14     13   *  
+85  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand* Stand* Stand*  
+95  Stand  Stand  Stand  Stand  Stand  Stand  16   * 15     Stand* 15      
+J5  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand   
+66  Stand* Stand* Stand* Stand* Stand* Stand  Stand* Stand* Stand* Stand*  
+76  Stand  Stand  Stand  Stand  Stand  Stand  Stand* Stand* 14     Stand*  
+86  Stand  Stand  Stand  Stand  Stand  Stand  17   * Stand* Stand  Stand   
+96  Stand  Stand  Stand  Stand  Stand  Stand  17   * Stand  Stand* Stand   
+J6  Stand  Stand  Stand  Stand  Stand  Stand  17     17     Stand  Stand   
+77  Stand* Stand* Stand* Stand* Stand* Stand* Stand  Stand* Stand* Stand*  
+87  Stand  Stand  Stand  Stand  Stand  Stand  17     Stand* Stand  Stand   
+97  Stand  Stand  Stand  Stand  Stand  Stand  17     Stand  Stand* Stand   
+J7  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand   
+88  Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand  Stand* Stand*  
+98  Stand  Stand  Stand  Stand  Stand  Stand  Stand  18   * Stand* Stand   
+J8  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand   
+99  Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand  Stand*  
+J9  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand   
+JJ  Stand  Stand* Stand* Stand* Stand* Stand* Stand* Stand  Stand  Stand   
+ 
+the most favorable player responses after split with pc1<=pc2
+ 
+      1      2      3      4      5      6      7      8      9     10      
+       
+AA  Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand*  
+A2  Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand*  
+A3  Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand*  
+A4  Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand*  
+A5  Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand*  
+A6  Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand*  
+A7  Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand*  
+A8  Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand*  
+A9  Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand*  
+AJ  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand   
+22  Stand* Stand  Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand*  
+23  13/A7  Stand* 12/A7  12/A6* 12/A7* 12/A6* 13/A6  15/A7  15/A7  15/A7   
+24  13/A7  Stand* 12/A7* 12/A7* 12/A7* 12/A6* 13/A6  15/A7  15/A8  15/A7   
+25  13     Stand* 12   * 12   * 12   * 12   * 13     13     14/A8  14      
+26  12     Stand* 12   * 12   * 12   * 12   * 13   * 14     14     15      
+27  12   * Stand* 12   * 12   * 12   * 12   * 14   * 14   * 14     14      
+28  12   * Stand* 12   * 12   * 12   * 12   * 14   * 15   * 15   * 15   *  
+29  12   * Stand* 12   * 12   * 12   * 12   * 14   * 15   * 15   * 15   *  
+2J  13     Stand* Stand  Stand  Stand  Stand  14     15     15     15      
+33  Stand* Stand* Stand  Stand* Stand* Stand* Stand* Stand* Stand* Stand*  
+34  13     12     Stand* 12   * 12   * 12   * 13     14     14/A8  15      
+35  13     12   * Stand* 12   * 12   * 12   * 13   * 14     14     15      
+36  12     12   * Stand* 12   * 12   * 12   * 13   * 14   * 14     15      
+37  12   * 12   * Stand* 12   * 12   * 12   * 14   * 14   * 14   * 14   *  
+38  12   * 12   * Stand* 12   * 12   * 12   * 14   * 15   * 15   * 15   *  
+39  Stand  Stand  Stand* Stand  Stand  Stand  14     15     15     15      
+3J  14     Stand  Stand* Stand  Stand  Stand  14     15     15     15      
+44  Stand* Stand* Stand* Stand  Stand* Stand* Stand* Stand* Stand* Stand*  
+45  13     12   * 12   * Stand* 12   * 12   * 13   * 15   * 15     15      
+46  12   * 12   * 12   * Stand* 12   * 12   * 14   * 15   * 15   * 15   *  
+47  12   * 12   * 12   * Stand* 12   * 12   * 14   * 15   * 14   * 14   *  
+48  Stand  Stand  Stand  Stand* Stand  Stand  13     15     15     15      
+49  Stand  Stand  Stand  Stand* Stand  Stand  14     15     15     15      
+4J  Stand  Stand  Stand  Stand* Stand  Stand  Stand  15     15     15      
+55  Stand* Stand* Stand* Stand* Stand  Stand* Stand* Stand* Stand* Stand*  
+56  12   * 12   * 12   * 12   * Stand* 12   * 14   * 14   * 14   * 15   *  
+57  Stand  Stand  Stand  Stand  Stand* Stand  14     14     14     14      
+58  Stand  Stand  Stand  Stand  Stand* Stand  Stand  15     15     15      
+59  Stand  Stand  Stand  Stand  Stand* Stand  Stand  15     15     15      
+5J  Stand  Stand  Stand  Stand  Stand* Stand  Stand  Stand  Stand  Stand   
+66  Stand* Stand* Stand* Stand* Stand* Stand  Stand* Stand* Stand* Stand*  
+67  Stand  Stand  Stand  Stand  Stand  Stand* 14     14     14     14      
+68  Stand  Stand  Stand  Stand  Stand  Stand* Stand  15     Stand  Stand   
+69  Stand  Stand  Stand  Stand  Stand  Stand* Stand  Stand  Stand  Stand   
+6J  Stand  Stand  Stand  Stand  Stand  Stand* 17     17     Stand  Stand   
+77  Stand* Stand* Stand* Stand* Stand* Stand* Stand  Stand* Stand* Stand*  
+78  Stand  Stand  Stand  Stand  Stand  Stand  Stand* 17     Stand  Stand   
+79  Stand  Stand  Stand  Stand  Stand  Stand  Stand* 17   * 17   * Stand   
+7J  Stand  Stand  Stand  Stand  Stand  Stand  Stand* Stand  Stand  Stand   
+88  Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand  Stand* Stand*  
+89  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand* Stand  Stand   
+8J  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand* Stand  Stand   
+99  Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand  Stand*  
+9J  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand* Stand   
+JJ  Stand  Stand* Stand* Stand* Stand* Stand* Stand* Stand  Stand  Stand   
+ 

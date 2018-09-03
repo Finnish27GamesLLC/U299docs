@@ -1,0 +1,105 @@
+ULTIMA299.BAS loads data saved by ULTIMA282.BAS about playing strategy.
+ULTIMA299.BAS loads data saved by ULTIMA298.BAS about average stack compositions
+that occur at various card count totals during a simulated game of blackjack
+and generates indices. ULTIMA297.BAS loads and uses these indices to vary
+player response strategy with changes in the integer card count total during
+a simulated game of blackjack. ULTIMA298.BAS stores the number of times bets
+were placed at the various integer card count totals that occurs during 
+a simulated a game of blackjack. ULTIMA298.BAS also stores data about stack
+compositions that occur at the time a bet was placed at those various integer
+card count totals that occur during simulated play of a game of blackjack.
+The average stack composition that occurred at any given card count total
+can be found by dividing the sum of all stack compositions found at a given
+integer card count total by the sum of all the times bets were placed at
+that card count total. ULTIMA299.BAS loads this data saved by ULTIMA298.BAS
+about the various integer card count totals that occurred during
+a simulated game of blackjack and about the average stack compositions
+that correlate with those various integer card count totals and does
+an approximate combinatorial analysis to find a nearly optimal
+combination dependent playing strategy for each of the average stack
+compositions that occured at each of the various integer card count levels.
+This approximate combinatorial analysis of average deck compositions
+is the basis for the playing indices used by ULTIMA297.BAS to
+vary playing strategy with changes in the integer card count total
+during a user defined simulated game of blackjack. These three programs
+when used together offer a way of creating and testing playing indices
+for a user defined card count strategy in a simulated game of blackjack.
+
+enter 'folder/filename prefix' to be used to store the input screen and program output 
+U299docs/17h18s1dgame1A
+enter 'folder/filename prefix'of matching basic strategy 
+17h18s1d/game1
+strategy loaded is described as follows: 17h18s1d/game1                                                                  
+if this is acceptable type 'y'and press enter y
+input the number of decks used 1 
+what is the percentage of the shoe remaining at point of reshuffle.(15-100) 99 
+input dealer soft finish 18 
+press 1 and enter for dealer wins ties 0 
+press 1 and enter for a double bust contest where in if the player
+finishes closer to twenty-one than the dealer, the player pushes
+press 2 and enter for a double bust contest where in if the player
+finishes closer to twenty-one than the dealer, the player wins 0 
+press 1 and enter for dealer takes no hole card 0 
+press 1 and enter for player hands of 21 push against all dealer bjs 0 
+press 1 and enter for player 21 pushes against dealer 10 up bjs only 0 
+press 1 and enter for automatic six card player hand win 0 
+press 1 and enter for insurance 1 
+press 1 and enter for surrender 0 
+press 1 and enter for split option 1 
+press 1 and enter for double down after split 0 
+what is the maximum number of split hands allowed 4 
+press 1 and enter for resplit of aces is allowed 2 
+press 1 and enter to draw to split aces 0 
+press 1 and enter to restrict use of double down to specific hand totals 0 
+input 2 for blackjack pays 2:1 or 1.5 for pays 3:2 or 1 for pays 1:1 1.5 
+press 1 and enter for blackjack pays off on split hands 0 
+press 1 and enter for all player hands of 21 pay off immediately 0 
+press 1 and enter for player blackjack beats dealer blackjack 0 
+press 1 and enter for bonus 21 payoffs 0 
+press 1 and enter for double on more than two cards
+ 0 
+type and enter a brief description of rules
+17h18s1d/game1                                                                  
+
+enter 'folder/filename prefix' of average deck compositions 
+U298docs/17h18s1dgame1A
+deck compositions loaded are described as follows: 
+open U298docs/17h18s1dgame1Ai.txt to see a list of program parameters           
+if this is acceptable type 'y'and press enter 
+y
+press 'y' and enter to load an ezcount strategy 
+
+press 1 and enter for default count values  1 
+what is the count value of 's (-1 )
+what is the count value of 's ( 1 )
+what is the count value of 's ( 1 )
+what is the count value of 's ( 1 )
+what is the count value of 's ( 1 )
+what is the count value of 's ( 1 )
+what is the count value of 's ( 0 )
+what is the count value of 's ( 0 )
+what is the count value of 's ( 0 )
+what is the count value of 's (-1 )
+what is the count value of 's (-1 )
+what is the count value of 's (-1 )
+what is the count value of 's (-1 )
+press 1 and enter for true count conversion  1 
+input a constant added to render the bet count  0 
+Press 1 and enter to mathematically balance count strategy if unbalanced.  0 
+input the minimum number of samples required to trigger this program
+to produce an optimal playing strategy for an average deck composition
+and use this in the process of creating playing indices.  100000 
+input a description of indices open U299docs/17h18s1dgame1Ai.txt to see a list of program parameters
+type 'y' and enter to save count level strategies 
+y
+type 'y' and enter to save each strategy generated for each deck composition y
+type 'y' and enter to save strategy tables generated for each deck composition y
+input lower limit of player response strategies considered for hard hands  12 
+input upper limit of player response strategies considered for hard hands  19 
+input lower limit of player response strategies considered for soft hands  17 
+input upper limit of player response strategies considered for soft hands  20 
+
+
+START: 08-30-2018 21:09:10
+
+END:   08-30-2018 21:14:19
